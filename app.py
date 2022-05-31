@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
-pip install plotly
 import plotly.express as px
 
 DATA_URL = (
