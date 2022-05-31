@@ -1,2 +1,2 @@
 matplotlib == 3.5.2
-plotpy == 5.8.0
+plotly-express == 0.4.1
