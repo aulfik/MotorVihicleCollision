@@ -1,7 +1,7 @@
 ## Build a Data Science Web App with Streamlit and Python
 [Coursera Project Network](https://www.coursera.org/learn/data-science-streamlit-python/)
 
-See my [result]()
+See my [result](https://share.streamlit.io/aulfik/motorvihiclecollision/main/app.py) and [certificate](https://coursera.org/share/0ef13b37090523f41023cd8d5ce28e58)
 
 Welcome to this hands-on project on building your first data science web app with the Streamlit library in Python. By the end of this project, you are going to be comfortable with using Python and Streamlit to build beautiful and interactive web apps with zero web development experience! We are going to load, explore, visualize and interact with data, and generate dashboards in less than 100 lines of Python code!
 
